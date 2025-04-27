@@ -1386,6 +1386,9 @@ header{
 	text-transform: uppercase;
 	letter-spacing: .25rem;
 }
+.small-button {
+    font-size: 1rem !important;
+  }
 .intro-content .button:hover, .intro-content .button:focus {
 	border-color: #cc005f;
 }
